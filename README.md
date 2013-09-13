@@ -5,7 +5,7 @@ woj-land
 ------
 
 
-将woj系统在github上开源 ， 打算暑假好好折腾一下 （ 如果没找到实习的话 T T ）。
+将woj系统在github上开源 
 
 
 计划
